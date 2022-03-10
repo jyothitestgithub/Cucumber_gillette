@@ -1,0 +1,70 @@
+[INFO] 2022-03-09 13:00:18,816 gillette setup - --Launching browser--
+[INFO] 2022-03-09 13:00:20,871 gillette navigate_to_site - Url is opened
+[INFO] 2022-03-09 13:00:21,066 gillette user_hovers_on_Products - Hovered over Poducts
+[INFO] 2022-03-09 13:00:21,912 gillette user_clicks_on_under_By_Brands - User clicked on  a category under by brands
+[INFO] 2022-03-09 13:00:21,981 gillette verify_that_text_is_displayed_under_out_of_products_list - --Products verfication failed--
+[INFO] 2022-03-09 13:02:56,338 gillette setup - --Launching browser--
+[INFO] 2022-03-09 13:02:58,582 gillette navigate_to_site - Url is opened
+[INFO] 2022-03-09 13:02:58,770 gillette user_hovers_on_Products - Hovered over Poducts
+[INFO] 2022-03-09 13:02:59,779 gillette user_clicks_on_under_By_Brands - User clicked on  a category under by brands
+[INFO] 2022-03-09 13:02:59,913 gillette verify_that_text_is_displayed_under_out_of_products_list - --Products verfication failed--
+[INFO] 2022-03-09 13:06:17,224 gillette setup - --Launching browser--
+[INFO] 2022-03-09 13:06:19,710 gillette navigate_to_site - Url is opened
+[INFO] 2022-03-09 13:06:19,916 gillette user_hovers_on_Products - Hovered over Poducts
+[INFO] 2022-03-09 13:06:20,902 gillette user_clicks_on_under_By_Brands - User clicked on  a category under by brands
+[INFO] 2022-03-09 13:06:21,029 gillette verify_that_text_is_displayed_under_out_of_products_list - --Products verfication failed--
+[INFO] 2022-03-09 13:10:27,671 gillette setup - --Launching browser--
+[INFO] 2022-03-09 13:10:29,853 gillette navigate_to_site - Url is opened
+[INFO] 2022-03-09 13:10:30,019 gillette user_hovers_on_Products - Hovered over Poducts
+[INFO] 2022-03-09 13:10:30,976 gillette user_clicks_on_under_By_Brands - User clicked on  a category under by brands
+[INFO] 2022-03-09 13:10:31,050 gillette verify_that_text_is_displayed_under_out_of_products_list - --Products verfication failed--
+[INFO] 2022-03-09 13:20:25,380 gillette setup - --Launching browser--
+[INFO] 2022-03-09 13:20:27,748 gillette navigate_to_site - Url is opened
+[INFO] 2022-03-09 13:20:27,947 gillette user_hovers_on_Products - Hovered over Poducts
+[INFO] 2022-03-09 13:20:29,178 gillette user_clicks_on_under_By_Brands - User clicked on  a category under by brands
+[INFO] 2022-03-09 13:20:29,327 gillette verify_that_text_is_displayed_under_out_of_products_list - --Products verfication failed--
+[INFO] 2022-03-09 13:27:51,677 gillette setup - --Launching browser--
+[INFO] 2022-03-09 13:27:53,848 gillette navigate_to_site - Url is opened
+[INFO] 2022-03-09 13:27:54,026 gillette user_hovers_on_Products - Hovered over Poducts
+[INFO] 2022-03-09 13:27:54,981 gillette user_clicks_on_under_By_Brands - User clicked on  a category under by brands
+[INFO] 2022-03-09 13:27:55,124 gillette verify_that_text_is_displayed_under_out_of_products_list - --Products verfication failed--
+[INFO] 2022-03-09 13:31:04,113 gillette setup - --Launching browser--
+[INFO] 2022-03-09 13:31:06,322 gillette navigate_to_site - Url is opened
+[INFO] 2022-03-09 13:31:06,600 gillette user_hovers_on_Products - Hovered over Poducts
+[INFO] 2022-03-09 13:31:07,455 gillette user_clicks_on_under_By_Brands - User clicked on  a category under by brands
+[INFO] 2022-03-09 13:31:07,629 gillette verify_that_text_is_displayed_under_out_of_products_list - --Products verfication failed--
+[INFO] 2022-03-09 13:32:25,589 gillette setup - --Launching browser--
+[INFO] 2022-03-09 13:32:27,751 gillette navigate_to_site - Url is opened
+[INFO] 2022-03-09 13:32:27,943 gillette user_hovers_on_Products - Hovered over Poducts
+[INFO] 2022-03-09 13:32:28,899 gillette user_clicks_on_under_By_Brands - User clicked on  a category under by brands
+[INFO] 2022-03-09 13:32:29,052 gillette verify_that_text_is_displayed_under_out_of_products_list - --Products verfication failed--
+[INFO] 2022-03-09 13:36:07,248 gillette setup - --Launching browser--
+[INFO] 2022-03-09 13:36:09,341 gillette navigate_to_site - Url is opened
+[INFO] 2022-03-09 13:36:09,550 gillette user_hovers_on_Products - Hovered over Poducts
+[INFO] 2022-03-09 13:36:10,551 gillette user_clicks_on_under_By_Brands - User clicked on  a category under by brands
+[INFO] 2022-03-09 13:36:10,680 gillette verify_that_text_is_displayed_under_out_of_products_list - --Products verfication failed--
+[INFO] 2022-03-09 13:40:35,898 gillette setup - --Launching browser--
+[INFO] 2022-03-09 13:40:38,111 gillette navigate_to_site - Url is opened
+[INFO] 2022-03-09 13:40:38,308 gillette user_hovers_on_Products - Hovered over Poducts
+[INFO] 2022-03-09 13:40:39,178 gillette user_clicks_on_under_By_Brands - User clicked on  a category under by brands
+[INFO] 2022-03-09 13:40:39,295 gillette verify_that_text_is_displayed_under_out_of_products_list - --Products verfication failed--
+[INFO] 2022-03-09 13:41:26,148 gillette setup - --Launching browser--
+[INFO] 2022-03-09 13:41:28,530 gillette navigate_to_site - Url is opened
+[INFO] 2022-03-09 13:41:28,749 gillette user_hovers_on_Products - Hovered over Poducts
+[INFO] 2022-03-09 13:41:29,700 gillette user_clicks_on_under_By_Brands - User clicked on  a category under by brands
+[INFO] 2022-03-09 13:41:29,873 gillette verify_that_text_is_displayed_under_out_of_products_list - --Products verfication failed--
+[INFO] 2022-03-09 13:44:31,400 gillette setup - --Launching browser--
+[INFO] 2022-03-09 13:44:33,578 gillette navigate_to_site - Url is opened
+[INFO] 2022-03-09 13:44:33,759 gillette user_hovers_on_Products - Hovered over Poducts
+[INFO] 2022-03-09 13:44:34,694 gillette user_clicks_on_under_By_Brands - User clicked on  a category under by brands
+[INFO] 2022-03-09 13:44:34,825 gillette verify_that_text_is_displayed_under_out_of_products_list - --Products verfication failed--
+[INFO] 2022-03-09 13:46:03,235 gillette setup - --Launching browser--
+[INFO] 2022-03-09 13:46:05,416 gillette navigate_to_site - Url is opened
+[INFO] 2022-03-09 13:46:05,616 gillette user_hovers_on_Products - Hovered over Poducts
+[INFO] 2022-03-09 13:46:06,552 gillette user_clicks_on_under_By_Brands - User clicked on  a category under by brands
+[INFO] 2022-03-09 13:46:06,630 gillette verify_that_text_is_displayed_under_out_of_products_list - --Products verfication failed--
+[INFO] 2022-03-09 13:58:06,095 gillette setup - --Launching browser--
+[INFO] 2022-03-09 13:58:08,178 gillette navigate_to_site - Url is opened
+[INFO] 2022-03-09 13:58:08,384 gillette user_hovers_on_Products - Hovered over Poducts
+[INFO] 2022-03-09 13:58:09,749 gillette user_clicks_on_under_By_Brands - User clicked on  a category under by brands
+[INFO] 2022-03-09 13:58:09,880 gillette verify_that_text_is_displayed_under_out_of_products_list - --Products verfication failed--

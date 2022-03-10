@@ -1,0 +1,6 @@
+[INFO] 2022-03-09 16:52:18,980 gillette setup - --Launching browser--
+[INFO] 2022-03-09 16:52:21,431 gillette navigate_to_site - Url is opened
+[INFO] 2022-03-09 16:52:21,634 gillette user_hovers_on_Products - Hovered over Poducts
+[INFO] 2022-03-09 16:52:22,517 gillette user_clicks_on_under_By_Brands - User clicked on  a category under by brands
+[INFO] 2022-03-09 16:52:22,656 gillette verify_that_text_is_displayed_under_out_of_products_list - --Products verfication passed--
+[INFO] 2022-03-09 16:52:22,661 gillette close_browser - --Exiting browser--

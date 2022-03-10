@@ -1,0 +1,36 @@
+[INFO] 2022-03-09 21:36:13,801 gillette setup - --Launching browser--
+[INFO] 2022-03-09 21:36:16,825 gillette navigate_to_site - Url is opened
+[INFO] 2022-03-09 21:36:17,041 gillette user_hovers_on_Products - Hovered over Poducts
+[INFO] 2022-03-09 21:36:18,006 gillette user_clicks_on_under_By_Brands - User clicked on  a category under by brands
+[INFO] 2022-03-09 21:36:18,146 gillette verify_that_text_is_displayed_under_out_of_products_list - --Products verfication passed--
+[INFO] 2022-03-09 21:36:18,153 gillette close_browser - --Exiting browser--
+[INFO] 2022-03-09 21:36:20,095 gillette setup - --Launching browser--
+[INFO] 2022-03-09 21:36:22,186 gillette navigate_to_site - Url is opened
+[INFO] 2022-03-09 21:36:22,308 gillette user_clicks_on_search_icon - User clicked on Search icon
+[INFO] 2022-03-09 21:36:22,565 gillette user_enters_search - User entered search keyword
+[INFO] 2022-03-09 21:36:23,251 gillette user_again_clicks_on_search_icon - User submitted entered search keyword
+[INFO] 2022-03-09 21:36:23,418 gillette verify_that_text_is_displayed_at_the_top_of_search_results - --Search  functionality passed--
+[INFO] 2022-03-09 21:36:23,419 gillette close_browser - --Exiting browser--
+[INFO] 2022-03-09 21:36:25,338 gillette setup - --Launching browser--
+[INFO] 2022-03-09 21:36:27,230 gillette navigate_to_site - Url is opened
+[INFO] 2022-03-09 21:36:28,576 gillette user_clicks_on_something_under_something_in_footer - User clicked on  a category in footer
+[INFO] 2022-03-09 21:36:28,753 gillette verify_that_text_something_is_displayed_under_list_of_articles_under_styling - --Styling verfication passed--
+[INFO] 2022-03-09 21:36:28,755 gillette close_browser - --Exiting browser--
+[INFO] 2022-03-09 21:54:47,652 gillette setup - --Launching browser--
+[INFO] 2022-03-09 21:54:50,017 gillette navigate_to_site - Url is opened
+[INFO] 2022-03-09 21:54:50,253 gillette user_hovers_on_Products - Hovered over Poducts
+[INFO] 2022-03-09 21:54:51,390 gillette user_clicks_on_under_By_Brands - User clicked on  a category under by brands
+[INFO] 2022-03-09 21:54:51,527 gillette verify_that_text_is_displayed_under_out_of_products_list - --Products verfication passed--
+[INFO] 2022-03-09 21:54:51,533 gillette close_browser - --Exiting browser--
+[INFO] 2022-03-09 21:54:53,380 gillette setup - --Launching browser--
+[INFO] 2022-03-09 21:54:55,481 gillette navigate_to_site - Url is opened
+[INFO] 2022-03-09 21:54:55,601 gillette user_clicks_on_search_icon - User clicked on Search icon
+[INFO] 2022-03-09 21:54:55,850 gillette user_enters_search - User entered search keyword
+[INFO] 2022-03-09 21:54:56,743 gillette user_again_clicks_on_search_icon - User submitted entered search keyword
+[INFO] 2022-03-09 21:54:56,915 gillette verify_that_text_is_displayed_at_the_top_of_search_results - --Search  functionality passed--
+[INFO] 2022-03-09 21:54:56,917 gillette close_browser - --Exiting browser--
+[INFO] 2022-03-09 21:54:58,822 gillette setup - --Launching browser--
+[INFO] 2022-03-09 21:55:00,905 gillette navigate_to_site - Url is opened
+[INFO] 2022-03-09 21:55:01,954 gillette user_clicks_on_something_under_something_in_footer - User clicked on  a category in footer
+[INFO] 2022-03-09 21:55:02,046 gillette verify_that_text_something_is_displayed_under_list_of_articles_under_styling - --Styling verfication passed--
+[INFO] 2022-03-09 21:55:02,048 gillette close_browser - --Exiting browser--

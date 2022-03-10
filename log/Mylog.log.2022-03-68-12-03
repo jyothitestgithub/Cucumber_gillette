@@ -1,0 +1,9 @@
+[INFO] 2022-03-09 12:53:29,097 gillette setup - --Launching browser--
+[INFO] 2022-03-09 12:53:31,547 gillette navigate_to_site - Url is opened
+[INFO] 2022-03-09 12:53:31,744 gillette user_hovers_on_Products - Hovered over Poducts
+[INFO] 2022-03-09 12:53:32,786 gillette user_clicks_on_under_By_Brands - User clicked on  a category under by brands
+[INFO] 2022-03-09 12:57:39,404 gillette setup - --Launching browser--
+[INFO] 2022-03-09 12:57:41,484 gillette navigate_to_site - Url is opened
+[INFO] 2022-03-09 12:57:41,689 gillette user_hovers_on_Products - Hovered over Poducts
+[INFO] 2022-03-09 12:57:42,563 gillette user_clicks_on_under_By_Brands - User clicked on  a category under by brands
+[INFO] 2022-03-09 12:57:42,691 gillette verify_that_text_is_displayed_under_out_of_products_list - --Products verfication failed--
